@@ -71,6 +71,8 @@ cd Module2_Basic_Python_Concepts
 
 Run each script:
 
+"""" Linux System Python 3.12.12 """" 
+
 python task1_math_operations.py
 python task2_greeting.py
 
@@ -84,7 +86,7 @@ Basic Arithmetic Operators (+, -, *, /)
 
 String Concatenation
 
-Printing Formatted Output
+Printing Formatted Output with f string too.
 
 Validation and Error Handling
 
